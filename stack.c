@@ -1,3 +1,5 @@
+\\Implement Stack Using a Static Array\\
+
 #include <stdio.h>
 #define max 10
 
