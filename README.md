@@ -8,7 +8,7 @@ I am building this repository alongside my work in **Artificial Intelligence, Ma
 
 This repository contains my solutions to DSA problems and implementations of fundamental data structures.
 
-The focus is not only on solving problems, but also on understanding the logic behind each solution and writing it from scratch in C.
+The focus is not only on solving problems, but also on understanding the logic behind each solution and writing it from scratch in c.
 
 ## Topics
 
