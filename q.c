@@ -3,7 +3,7 @@ Given a string s containing only:
 ( ) { } [ ]
 
 
-  ans
+  an
 
   #include <iostream>
 #include <stack>
