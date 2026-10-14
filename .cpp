@@ -25,7 +25,7 @@ int main() {
     // Object creation
     Student s1("Rahul", 20);
 
-    // Calling method
+    // Calling method of calling it 
     s1.display();
 
     return 0;
