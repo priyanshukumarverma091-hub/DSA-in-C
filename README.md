@@ -1,80 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0F172A,100:2563EB&text=DSA%20IN%20C&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=Understanding%20the%20logic%20behind%20every%20algorithm&descSize=15&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F172A,100:1D4ED8&text=DSA%20IN%20C&fontColor=E2E8F0&fontSize=65&fontAlignY=40&desc=ALGORITHMS%20%2F%20DATA%20STRUCTURES%20%2F%20C&descSize=13&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
-**Data Structures & Algorithms | C Programming**
-
-*Learning how things work, one implementation at a time.*
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E+Initializing+DSA+Environment...;%3E+Exploring+the+logic+behind+algorithms;%3E+Building+fundamentals+with+C;%3E+Learning.+Implementing.+Improving." alt="Terminal Animation"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Think+%E2%86%92+Understand+%E2%86%92+Implement;Building+strong+programming+fundamentals;Exploring+the+logic+behind+algorithms;Learning.+Implementing.+Improving." alt="Typing SVG"/>
+`C PROGRAMMING` &nbsp; / &nbsp; `DATA STRUCTURES` &nbsp; / &nbsp; `ALGORITHMS`
+
+<br/>
 
 </div>
 
 ---
 
-### The Journey
+<div align="center">
 
-This repository is my workspace for learning and implementing **Data Structures and Algorithms using C**.
+### `01 // SYSTEM OVERVIEW`
 
-Alongside my exploration of Artificial Intelligence, Machine Learning, and research, I am strengthening the fundamentals that make good problem-solving possible.
+</div>
 
-The idea is simple: understand the logic, implement it from scratch, and learn why it works.
+This repository is my personal workspace for exploring **Data Structures and Algorithms using C**.
 
-Not just collecting solutions. Understanding them.
+Alongside my work in Artificial Intelligence, Machine Learning, and research, I am strengthening the fundamentals that shape computational thinking.
+
+The objective is to understand how algorithms operate, how data structures organize information, and how programming concepts translate into actual implementations.
+
+**Not just writing code. Understanding the system behind it.**
 
 ---
 
-### What I'm Exploring
+<div align="center">
+
+### `02 // EXPERIMENTS`
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — Linear Data Structures**
+#### `[01]` Linear Structures
 
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
+```text
+├── Arrays
+├── Strings
+├── Linked Lists
+├── Stack
+└── Queue
+```
 
 </td>
 <td width="50%" valign="top">
 
-**02 — Algorithmic Thinking**
+#### `[02]` Algorithmic Logic
 
-- Recursion
-- Searching
-- Sorting
-- Problem Solving
-- Complexity Analysis
+```text
+├── Recursion
+├── Searching
+├── Sorting
+├── Problem Solving
+└── Complexity Analysis
+```
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**03 — Non-Linear Structures**
+#### `[03]` Advanced Structures
 
-- Trees
-- Binary Search Trees
-- Graphs
-- Graph Traversal
+```text
+├── Trees
+├── Binary Search Trees
+├── Graphs
+└── Graph Traversal
+```
 
 </td>
 <td width="50%" valign="top">
 
-**04 — Core Concepts**
+#### `[04]` Core Mechanics
 
-- Pointers
-- Dynamic Memory Allocation
-- Structures
-- Memory Management
-- Time & Space Complexity
+```text
+├── Pointers
+├── Structures
+├── Memory Allocation
+├── Memory Management
+└── Time & Space Complexity
+```
 
 </td>
 </tr>
@@ -82,23 +99,43 @@ Not just collecting solutions. Understanding them.
 
 ---
 
-### Implementation Philosophy
+<div align="center">
 
-Every implementation is an opportunity to understand the underlying concept.
+### `03 // IMPLEMENTATION PROTOCOL`
 
-Where applicable, I aim to include:
+</div>
 
-| Component | Purpose |
+Every implementation is an opportunity to understand the underlying logic.
+
+Where applicable, problems are organized around:
+
+```text
+[ PROBLEM ]
+     ↓
+[ UNDERSTANDING ]
+     ↓
+[ APPROACH ]
+     ↓
+[ IMPLEMENTATION IN C ]
+     ↓
+[ COMPLEXITY ANALYSIS ]
+```
+
+| Component | Description |
 |:--|:--|
-| Problem | What needs to be solved? |
-| Approach | How does the logic work? |
-| Implementation | How is it written in C? |
-| Time Complexity | How efficient is it? |
-| Space Complexity | How much memory does it use? |
+| Problem Statement | Define the problem |
+| Approach | Understand the logic |
+| Implementation | Write the solution in C |
+| Time Complexity | Analyze execution efficiency |
+| Space Complexity | Analyze memory requirements |
 
 ---
 
-### Repository Map
+<div align="center">
+
+### `04 // DIRECTORY STRUCTURE`
+
+</div>
 
 ```text
 DSA-in-C/
@@ -117,38 +154,38 @@ DSA-in-C/
 └── README.md
 ```
 
-*The structure will evolve as new concepts and implementations are added.*
+`STATUS: UNDER DEVELOPMENT`
 
----
-
-### Why C?
-
-C gives me a closer look at what happens beneath the surface.
-
-Working with pointers, memory allocation, structures, and manual memory management helps me understand how data structures actually operate rather than treating them as black boxes.
+The repository evolves as new concepts are explored and implemented.
 
 ---
 
 <div align="center">
 
-### A Continuous Process
+### `05 // WHY C`
 
-<img src="https://progress-bar.dev/1/?title=Learning%20in%20Progress&width=400&color=2563EB" width="60%"/>
+</div>
 
-<br/><br/>
+C allows me to explore programming at a lower level.
 
-**No shortcuts. No artificial milestones. Just consistent learning.**
+Working with pointers, structures, dynamic memory allocation, and memory management helps me understand how data structures operate internally.
+
+This foundation complements my broader interests in AI, ML, and computational research.
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=500&lines=%3E+System+status%3A+Learning;%3E+Execution+status%3A+Ongoing;%3E+Objective%3A+Understand+the+fundamentals" alt="System Status"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1E3A8A&height=2&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:2563EB,100:020617" width="100%"/>
 
 <br/>
 
-<sub>Built with curiosity, C, and a willingness to understand things deeply.</sub>
+**LEARNING // IMPLEMENTING // IMPROVING**
 
-<br/>
-
-**Learning. Implementing. Improving.**
+<sub>Building understanding, one algorithm at a time.</sub>
 
 </div>
