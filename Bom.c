@@ -55,6 +55,8 @@ int main()
 {
     push(10);
     push(20);
+    push(99);
+    push(6);
     push(30);
 
     display();
