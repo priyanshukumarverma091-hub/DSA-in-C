@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+class student
+{
+public:
+    int roll;
+    float marks;
+    string name;
+
+    friend class B;
+};
+
+class B
+{
+
+    void display(student s)
+    {
+        cout << "name :" << s.name << endl;
+        cout << "roll no :" << s.roll << endl;
+        cout << "marks :" << s.marks << endl;
+    }
+};
+int main()
+{
+
+    student s;
+    s.name = "priyanshu";
+    s.marks = 99;
+    s.roll = 9;
+
+    B obj;
+    obj.display(s);
+    return 0;
+}
