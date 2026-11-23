@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a = 33;
+    int &y = a;
+
+    int c = a * y;
+
+    cout << c << endl;
+
+    return 0;
+}
