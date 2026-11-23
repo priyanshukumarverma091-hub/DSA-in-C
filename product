@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+class cal
+{
+public:
+    int a, b;
+
+    int product(int a, int b)
+    {
+        return a * b;
+    }
+};
+
+int main()
+{
+    cal obj;
+
+    cout << "Enter two numbers: ";
+    cin >> obj.a >> obj.b;
+
+    cout << "The product is: " << obj.product(obj.a, obj.b) << endl;
+
+    return 0;
+}
